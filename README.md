@@ -5,3 +5,9 @@
 **NOTICE: Since light is a work in progress, breaking changes will be made every MINOR patch until 2.0**
 
 light is a **light**ning fast web framework.
+
+## Contributors
+
+<a href="https://github.com/ludicrousxyz/light/graphs/contributors">
+  <img src="https://contributors-img.firebaseapp.com/image?repo=ludicrousxyz/light" />
+</a>
